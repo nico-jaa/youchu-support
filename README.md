@@ -4,7 +4,7 @@
 
 开发者：**bearabbit**  
 支持邮箱：[bearrabbit1002@outlook.com](mailto:bearrabbit1002@outlook.com)  
-更新日期：2026-10-15
+更新日期：2026-10-16
 
 当前为本地版开发阶段，面向 iPhone、最低支持 iOS 17。普通录入以手工核对为准，自动识别与语音尚在开发验证；此页面不代表应用已在 App Store 上架。
 
